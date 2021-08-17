@@ -1,7 +1,7 @@
 {
 	"version": 3,
 	"file": "main.css",
-	"sourceRoot": "D:/github/codecio.github.io_source/codecio",
+	"sourceRoot": "D:/github/codecio.github.io_source/codecio.github.io",
 	"sources": [
 		"themes/hello-friend-ng/assets/scss/main.scss",
 		"themes/hello-friend-ng/assets/scss/_normalize.scss",
