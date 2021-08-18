@@ -20,10 +20,10 @@ Beyond using it for the AWS lab account for various DNS services, I decided to a
     
     <item>
       <title>About</title>
-      <link>https://colecio.com/page/about/</link>
+      <link>https://colecio.com/about/</link>
       <pubDate>Wed, 09 Apr 2014 00:00:00 +0000</pubDate>
       
-      <guid>https://colecio.com/page/about/</guid>
+      <guid>https://colecio.com/about/</guid>
       <description>Hugo is the world’s fastest framework for building websites. It is written in Go.
 It makes use of a variety of open source projects including:
  https://github.com/russross/blackfriday https://github.com/alecthomas/chroma https://github.com/muesli/smartcrop https://github.com/spf13/cobra https://github.com/spf13/viper  Learn more and contribute on GitHub.</description>
